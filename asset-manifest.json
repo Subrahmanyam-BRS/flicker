@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/flicker/static/css/main.2b969c21.css",
+    "main.js": "/flicker/static/js/main.ed9ded06.js",
+    "static/js/453.a2f92fe0.chunk.js": "/flicker/static/js/453.a2f92fe0.chunk.js",
+    "static/media/BG.png": "/flicker/static/media/BG.0805d1c579b3eb137695.png",
+    "index.html": "/flicker/index.html",
+    "main.2b969c21.css.map": "/flicker/static/css/main.2b969c21.css.map",
+    "main.ed9ded06.js.map": "/flicker/static/js/main.ed9ded06.js.map",
+    "453.a2f92fe0.chunk.js.map": "/flicker/static/js/453.a2f92fe0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b969c21.css",
+    "static/js/main.ed9ded06.js"
+  ]
+}
